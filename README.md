@@ -15,7 +15,7 @@ Power BI has introduced several machine learning (ML) and artificial intelligenc
 * Use DataFlows to make predictions using a trained model 
 * Leverage a model built in Power BI
 * Leverage a model external to Power BI
-* (Time Permitting) Use DataFlows to augment data with Cognitive Services
+* Augment data with external ML Models & Cognitive Services
 
 #### Note(s)
 * This workshop is designed be instructor-led (over a ~1 day timespan); see the included PowerPoint for background material and a suggested flow.
