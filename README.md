@@ -8,6 +8,7 @@ Power BI has introduced several machine learning (ML) and artificial intelligenc
 * Load, model, and visualize data using the Power BI Desktop
 * Augment visualizations with R and Python
 * Use the Key Influencers visualization to understand key features (and case segmentation)
+* Detect anomalies and add smart narratives to your reports
 * Use DataFlows to load data in a Power BI workspace
 * Use DataFlows to build and evaluate a classification/regression ML Model 
 * Understand the Prediction Report
